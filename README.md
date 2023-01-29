@@ -24,6 +24,3 @@ I am completely passionate about frontend development, graphs and also very inte
 - 📫 How to reach me: 
 
 <img title="My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=userPlato&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
-
-:star: From [一懒众山小](https://github.com/userPlato)
-
